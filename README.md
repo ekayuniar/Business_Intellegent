@@ -1,2 +1,2 @@
-# UTS_BI
-Berikut ini merupakan studi kasus dari soal UTS Business Intellegent
+# UTS_UAS BI
+Berikut ini merupakan studi kasus dari soal UTS-UAS Business Intellegent
